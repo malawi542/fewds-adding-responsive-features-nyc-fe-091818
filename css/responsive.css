@@ -23,6 +23,10 @@
   #logo h2 {
     font-size: 2.2em;
   }
+  
+  .col-3 p {
+    column count: 2;
+  }
 }
   
 @media (max-width: 750px) {
