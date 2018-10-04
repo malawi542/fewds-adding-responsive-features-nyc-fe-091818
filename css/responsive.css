@@ -1,0 +1,39 @@
+
+@media (max-width: 1108px) {
+.wrapper {
+  width: 90%;
+}
+
+#social {
+  position: 72px;
+}
+
+}
+
+@media (max-width: 900px) {
+  body {
+    font-size: 85%;
+  }
+  
+  #logo h1 {
+    height: 35px;
+    width: 35px;
+  }
+  
+  #logo h2 {
+    font-size: 2.2em;
+  }
+}
+  
+@media (max-width: 750px) {
+  #navbar nav a {
+      font-size: 0.9em;
+  }
+  
+  #details div {
+    height: auto;
+  }
+  
+  }
+
+
